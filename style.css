@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(133, 119, 91);
+    background-repeat: no-repeat;
+    margin: 20%;
+}
+
+.style1{
+    text-align: center;
+    font-size: 7vh;
+    text-shadow: 5px 5px 10px wheat;
+}
+
+.style2{
+    font-family: 'Times New Roman', Times, serif ;
+    text-align: justify;
+}
+
+.style3{
+    font-size: 5vh;
+    text-align: center;
+    color: red;
+    text-shadow: 5px 5px 10px whitesmoke;
+}
+.style4{
+    text-align: justify;
+    background-image: url('image.webp');
+    box-shadow: 20px 20px 10px red;
+    padding: 25px;
+    padding-top: 25px;
+    margin: 20px;
+    font-style: italic;
+    color: rgb(0, 38, 255);
+}
+#style6{
+    text-decoration: none;
+    color: black;
+    font-size: 2.5vh;
+    font-family: 'Times New Roman';
+}
